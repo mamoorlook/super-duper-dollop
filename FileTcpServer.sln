@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTcpServer", "FileTcpServer\FileTcpServer.csproj", "{649C7F68-6D2D-40B4-984F-1317A0B1CEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileClient", "FileClient\FileClient.csproj", "{932BB5D5-33A9-4E42-9051-A3414D3EFE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649C7F68-6D2D-40B4-984F-1317A0B1CEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649C7F68-6D2D-40B4-984F-1317A0B1CEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649C7F68-6D2D-40B4-984F-1317A0B1CEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649C7F68-6D2D-40B4-984F-1317A0B1CEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932BB5D5-33A9-4E42-9051-A3414D3EFE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932BB5D5-33A9-4E42-9051-A3414D3EFE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932BB5D5-33A9-4E42-9051-A3414D3EFE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932BB5D5-33A9-4E42-9051-A3414D3EFE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

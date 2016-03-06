@@ -1,0 +1,17 @@
+M:\uv\2015e-prog\prog\FileTcpServer\FileClient\bin\Debug\FileClient.exe.config
+M:\uv\2015e-prog\prog\FileTcpServer\FileClient\bin\Debug\FileClient.exe
+M:\uv\2015e-prog\prog\FileTcpServer\FileClient\bin\Debug\FileClient.pdb
+M:\uv\2015e-prog\prog\FileTcpServer\FileClient\obj\Debug\FileClient.exe
+M:\uv\2015e-prog\prog\FileTcpServer\FileClient\obj\Debug\FileClient.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.exe.config
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.exe
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.exe
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.exe.config
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.exe
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.pdb
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.exe
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\bin\Debug\FileClient.pdb
+C:\Users\Jakub\Desktop\FileTcpServer\FileClient\obj\Debug\FileClient.csprojResolveAssemblyReference.cache

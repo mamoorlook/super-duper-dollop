@@ -1,0 +1,15 @@
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe.config
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.pdb
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.csprojResolveAssemblyReference.cache
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.exe
+M:\uv\2015e-prog\prog\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe.config
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.exe
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.pdb
+C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe.config
+C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.exe
+C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.pdb
